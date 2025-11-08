@@ -1,0 +1,7 @@
+streamlit
+pypdf
+langchain
+langchain-google-genai
+pymilvus
+python-dotenv
+langdetect
